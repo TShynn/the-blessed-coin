@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>The Blessed Coin (TBC)</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      background-color: #f9f9f9;
+      color: #333;
+    }
+    header {
+      background-color: #4CAF50;
+      color: white;
+      padding: 20px 0;
+    }
+    nav a {
+      margin: 0 15px;
+      text-decoration: none;
+      color: white;
+      font-weight: bold;
+    }
+    section {
+      margin: 20px;
+      padding: 10px;
+    }
+    footer {
+      margin-top: 20px;
+      padding: 10px 0;
+      background-color: #4CAF50;
+      color: white;
+    }
+    a {
+      color: #4CAF50;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>The Blessed Coin (TBC)</h1>
+    <nav>
+      <a href="#about">About</a>
+      <a href="#tokenomics">Tokenomics</a>
+      <a href="#roadmap">Roadmap</a>
+      <a href="#contact">Contact</a>
+    </nav>
+  </header>
+  <section id="about">
+    <h2>About</h2>
+    <p>
+      The Blessed Coin (TBC) was created to bring blessings, prosperity, and positivity to the crypto world. 
+      Our mission is to promote hope, good fortune, and success for all holders.
+    </p>
+  </section>
+  <section id="tokenomics">
+    <h2>Tokenomics</h2>
+    <p>Total Supply: <strong>144,000,000 TBC</strong></p>
+    <p>Designed for fair distribution and long-term value growth.</p>
+  </section>
+  <section id="roadmap">
+    <h2>Roadmap</h2>
+    <ul>
+      <li><strong>Phase 1:</strong> Launch and community building.</li>
+      <li><strong>Phase 2:</strong> Strategic partnerships and ecosystem expansion.</li>
+      <li><strong>Phase 3:</strong> Exchange listings and global adoption.</li>
+    </ul>
+  </section>
+  <section id="contact">
+    <h2>Contact</h2>
+    <p>Have questions or want to collaborate? Reach us at: <a href="mailto:theblessedcoin@gmail.com">theblessedcoin@gmail.com</a></p>
+    <p>Follow us on social media for updates and news.</p>
+  </section>
+  <footer>
+    <p>&copy; 2024 The Blessed Coin (TBC). All rights reserved.</p>
+  </footer>
+</body>
+</html>
